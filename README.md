@@ -1,4 +1,4 @@
-# Salesforce Integration Guide
+# IndieML Salesforce Integration Guide
 
 Filter and route customer service tickets using IndieML via Salesforce Flow's native HTTP Callouts.
 
